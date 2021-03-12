@@ -135,6 +135,13 @@
     <item>LAN及び中国本土のアドレスを迂回する</item>
     <item>中国本土からアクセス不可なアドレス以外を迂回する</item>
     <item>中国本土のアドレス以外を迂回する</item>
+    <item>ACL4SSR-banAD</item>
+    <item>ACL4SSR-onlybanAD</item>
+    <item>ACL4SSR-nobanAD</item>
+    <item>ACL4SSR-backcn-banAD</item>
+    <item>ACL4SSR-gfwlist-banAD</item>
+    <item>ACL4SSR-fullgfwlist</item>
+    <item>ACL4SSR-gfwlist-user</item>
     <item>カスタム ACL ファイル</item>
   </string-array>
 

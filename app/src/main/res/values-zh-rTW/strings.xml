@@ -138,6 +138,13 @@
     <item>略過區域網路及中國大陸</item>
     <item>GFW List</item>
     <item>China List</item>
+    <item>ACL4SSR-banAD</item>
+    <item>ACL4SSR-onlybanAD</item>
+    <item>ACL4SSR-nobanAD</item>
+    <item>ACL4SSR-backcn-banAD</item>
+    <item>ACL4SSR-gfwlist-banAD</item>
+    <item>ACL4SSR-fullgfwlist</item>
+    <item>ACL4SSR-gfwlist-user</item>	
     <item>自訂 ACL 檔案</item>
   </string-array>
 
