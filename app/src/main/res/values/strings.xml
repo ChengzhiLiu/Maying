@@ -222,13 +222,13 @@
         <item>Bypass LAN &amp; China</item>
         <item>GFW List</item>
         <item>China List</item>
-		<item>ACL4SSR-banAD</item>
-		<item>ACL4SSR-onlybanAD</item>
-		<item>ACL4SSR-nobanAD</item>
-		<item>ACL4SSR-backcn-banAD</item>
-		<item>ACL4SSR-gfwlist-banAD</item>
-		<item>ACL4SSR-fullgfwlist</item>
-		<item>ACL4SSR-gfwlist-user</item>
+        <item>ACL4SSR-banAD</item>
+        <item>ACL4SSR-onlybanAD</item>
+        <item>ACL4SSR-nobanAD</item>
+        <item>ACL4SSR-backcn-banAD</item>
+        <item>ACL4SSR-gfwlist-banAD</item>
+        <item>ACL4SSR-fullgfwlist</item>
+        <item>ACL4SSR-gfwlist-user</item>
         <item>Customize ACL File</item>
     </string-array>
 </resources>
